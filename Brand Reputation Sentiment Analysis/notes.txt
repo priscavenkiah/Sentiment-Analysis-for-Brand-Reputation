@@ -1,0 +1,10 @@
+total number of records
+Analytics
+generate pdf report
+out of total how many rejected
+ability to save for future use(History- to keep track and display trend)
+
+add webscrapping feature
+
+login password
+sentiment as a service
